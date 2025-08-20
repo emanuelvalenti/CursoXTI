@@ -1,0 +1,12 @@
+Cliente Emanuel: Seu saldo é R$ 12000.0.
+Valor sacado com sucesso!
+Cliente Emanuel: Seu saldo é R$ 10500.0.
+Cliente Natalí: Seu saldo é R$ 10000.0.
+Valor sacado com sucesso!
+Cliente Natalí: Seu saldo é R$ 9500.0.
+Cliente Spock: Seu saldo é R$ 15000.0.
+Valor depositado com sucesso!
+Cliente Spock: Seu saldo é R$ 16500.0.
+Cliente Anakin: Seu saldo é R$ 13000.0.
+Valor depositado com sucesso!
+Cliente Anakin: Seu saldo é R$ 13500.0.
