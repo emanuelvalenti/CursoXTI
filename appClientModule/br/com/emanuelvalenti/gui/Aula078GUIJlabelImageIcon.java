@@ -45,7 +45,7 @@ class Aula078GUIJlabelImageIcon extends JFrame implements ActionListener{
 		 * referente a essa classe, 
 		 * na estrutura recupera recurso que estão próxio, incluido estrutura de arquivos
 		 * */
-		ImageIcon imagem = new ImageIcon(getClass().getResource("/fotos/lampada.jpg")); 
+		ImageIcon imagem = new ImageIcon(getClass().getResource("lampada.jpg")); 
 		JLabel icone = new JLabel(imagem);
 		
 		container.add(icone);
