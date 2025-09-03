@@ -4,13 +4,18 @@ import javax.swing.JOptionPane;
 
 public class Aula036MetodosComParametros {
 
-	String cliente;
-	Double saldo;
+	public String cliente;
+	public Double saldo;
 
 	public Aula036MetodosComParametros() {
 		// TODO Auto-generated constructor stub
 	}
 
+	public Aula036MetodosComParametros(String cliente) {
+		this.cliente = cliente;
+	}
+	
+	
 	public void exibeSaldo() {
 
 		JOptionPane.showMessageDialog(null, "Cliente " + cliente + ": Seu saldo é R$ " + saldo + ".");
