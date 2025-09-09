@@ -8,7 +8,7 @@ public class Aula037Matematica {
 	 * @param dois
 	 * @return o maior de dois números
 	 */
-	int maior(int um, int dois) {
+	public int maior(int um, int dois) {
 
 		if (um >= dois) {
 			return um;
@@ -24,9 +24,22 @@ public class Aula037Matematica {
 	 * @param dois
 	 * @return
 	 */
-	double soma(double um, double dois) {
+	public double soma(double um, double dois) {
 
 		return um + dois;
 		
 	}
+	
+	/**
+	 * 
+	 * @param um
+	 * @param dois
+	 * @return
+	 */
+	public double divide(double um, double dois){
+
+		return um / dois;
+		
+	}
+
 }
